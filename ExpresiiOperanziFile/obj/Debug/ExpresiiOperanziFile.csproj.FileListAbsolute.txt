@@ -1,0 +1,9 @@
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\bin\Debug\Exemplul1.txt
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\bin\Debug\ExpresiiOperanziFile.exe.config
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\bin\Debug\ExpresiiOperanziFile.exe
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\bin\Debug\ExpresiiOperanziFile.pdb
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\obj\Debug\ExpresiiOperanziFile.csprojAssemblyReference.cache
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\obj\Debug\ExpresiiOperanziFile.csproj.CoreCompileInputs.cache
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\obj\Debug\ExpresiiOperanziFile.exe
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\obj\Debug\ExpresiiOperanziFile.pdb
+C:\Users\tudor\source\repos\tudoranghelina91\ExpresiiOperanziFile\ExpresiiOperanziFile\bin\Debug\Exemplul2.txt
